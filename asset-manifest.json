@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/moreminttea/kingpin/static/css/main.8ba2b4ea.chunk.css",
+    "main.js": "/moreminttea/kingpin/static/js/main.5175d872.chunk.js",
+    "main.js.map": "/moreminttea/kingpin/static/js/main.5175d872.chunk.js.map",
+    "runtime-main.js": "/moreminttea/kingpin/static/js/runtime-main.eac4e2bd.js",
+    "runtime-main.js.map": "/moreminttea/kingpin/static/js/runtime-main.eac4e2bd.js.map",
+    "static/js/2.f3e88c54.chunk.js": "/moreminttea/kingpin/static/js/2.f3e88c54.chunk.js",
+    "static/js/2.f3e88c54.chunk.js.map": "/moreminttea/kingpin/static/js/2.f3e88c54.chunk.js.map",
+    "static/js/3.76b537d9.chunk.js": "/moreminttea/kingpin/static/js/3.76b537d9.chunk.js",
+    "static/js/3.76b537d9.chunk.js.map": "/moreminttea/kingpin/static/js/3.76b537d9.chunk.js.map",
+    "index.html": "/moreminttea/kingpin/index.html",
+    "precache-manifest.9131471ba9bf42d8fe254c2ed997753b.js": "/moreminttea/kingpin/precache-manifest.9131471ba9bf42d8fe254c2ed997753b.js",
+    "service-worker.js": "/moreminttea/kingpin/service-worker.js",
+    "static/css/main.8ba2b4ea.chunk.css.map": "/moreminttea/kingpin/static/css/main.8ba2b4ea.chunk.css.map",
+    "static/js/2.f3e88c54.chunk.js.LICENSE.txt": "/moreminttea/kingpin/static/js/2.f3e88c54.chunk.js.LICENSE.txt",
+    "static/media/card_temp.png": "/moreminttea/kingpin/static/media/card_temp.9eab8a14.png",
+    "static/media/castorix_temp.jpg": "/moreminttea/kingpin/static/media/castorix_temp.aaab6079.jpg",
+    "static/media/down_arrow.png": "/moreminttea/kingpin/static/media/down_arrow.f5e772f2.png",
+    "static/media/koranin_temp.jpg": "/moreminttea/kingpin/static/media/koranin_temp.5e3026f8.jpg",
+    "static/media/up_arrow.png": "/moreminttea/kingpin/static/media/up_arrow.7cc73c27.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eac4e2bd.js",
+    "static/js/2.f3e88c54.chunk.js",
+    "static/css/main.8ba2b4ea.chunk.css",
+    "static/js/main.5175d872.chunk.js"
+  ]
+}
