@@ -1,0 +1,9 @@
+.slide-container .nav {
+    display: none;
+  }
+  
+  .slide-container .image-container img {
+    width: 100%;
+    height: auto;
+  }
+  

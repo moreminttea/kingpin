@@ -1,0 +1,37 @@
+.kingpin_body {
+    width: 100%;
+    height: 100%;
+    display: flex;
+  
+    font-size: 120%;
+    font-family: Roboto, sans-serif;
+}
+
+.kingpin_details {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.kingpin_title {
+    font-size: 350%;
+    font-family: 'Playfair Display', serif;
+}
+
+.kingpin_excerpt {
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+}
+
+.kingpin_selection {
+    width: 100%;
+}
+
+.card {
+    width: 11.5%;
+    height: 100%;
+    padding: 10px;
+    margin-top: 10px;
+}
