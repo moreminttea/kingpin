@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/kingpin/static/css/main.8ba2b4ea.chunk.css",
-    "main.js": "/kingpin/static/js/main.6e0617ed.chunk.js",
-    "main.js.map": "/kingpin/static/js/main.6e0617ed.chunk.js.map",
+    "main.css": "/kingpin/static/css/main.c54ccf20.chunk.css",
+    "main.js": "/kingpin/static/js/main.173e8dc0.chunk.js",
+    "main.js.map": "/kingpin/static/js/main.173e8dc0.chunk.js.map",
     "runtime-main.js": "/kingpin/static/js/runtime-main.d1a3c5fe.js",
     "runtime-main.js.map": "/kingpin/static/js/runtime-main.d1a3c5fe.js.map",
-    "static/js/2.e13feb02.chunk.js": "/kingpin/static/js/2.e13feb02.chunk.js",
-    "static/js/2.e13feb02.chunk.js.map": "/kingpin/static/js/2.e13feb02.chunk.js.map",
+    "static/js/2.99bdc084.chunk.js": "/kingpin/static/js/2.99bdc084.chunk.js",
+    "static/js/2.99bdc084.chunk.js.map": "/kingpin/static/js/2.99bdc084.chunk.js.map",
     "index.html": "/kingpin/index.html",
-    "precache-manifest.ed87f1d604f9990073a1242439edcb40.js": "/kingpin/precache-manifest.ed87f1d604f9990073a1242439edcb40.js",
+    "precache-manifest.306ecb58f7511f9a3fba7bdd7175ec7b.js": "/kingpin/precache-manifest.306ecb58f7511f9a3fba7bdd7175ec7b.js",
     "service-worker.js": "/kingpin/service-worker.js",
-    "static/css/main.8ba2b4ea.chunk.css.map": "/kingpin/static/css/main.8ba2b4ea.chunk.css.map",
-    "static/js/2.e13feb02.chunk.js.LICENSE.txt": "/kingpin/static/js/2.e13feb02.chunk.js.LICENSE.txt",
-    "static/media/card_temp.png": "/kingpin/static/media/card_temp.9eab8a14.png",
+    "static/css/main.c54ccf20.chunk.css.map": "/kingpin/static/css/main.c54ccf20.chunk.css.map",
+    "static/js/2.99bdc084.chunk.js.LICENSE.txt": "/kingpin/static/js/2.99bdc084.chunk.js.LICENSE.txt",
+    "static/media/Kingpin.css": "/kingpin/static/media/sumina_iconTemp.b9d5e798.png",
     "static/media/castorix_temp.jpg": "/kingpin/static/media/castorix_temp.aaab6079.jpg",
     "static/media/down_arrow.png": "/kingpin/static/media/down_arrow.f5e772f2.png",
     "static/media/koranin_temp.jpg": "/kingpin/static/media/koranin_temp.5e3026f8.jpg",
+    "static/media/sumina_cardTemp.png": "/kingpin/static/media/sumina_cardTemp.8f746127.png",
     "static/media/up_arrow.png": "/kingpin/static/media/up_arrow.7cc73c27.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d1a3c5fe.js",
-    "static/js/2.e13feb02.chunk.js",
-    "static/css/main.8ba2b4ea.chunk.css",
-    "static/js/main.6e0617ed.chunk.js"
+    "static/js/2.99bdc084.chunk.js",
+    "static/css/main.c54ccf20.chunk.css",
+    "static/js/main.173e8dc0.chunk.js"
   ]
 }
