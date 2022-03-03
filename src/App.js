@@ -25,7 +25,7 @@ const App = () => {
       </Routes>
     </HashRouter>
     <br></br>
-    <p> disclaimer: in progress project - currently shown images will be 
+    <p className='footer'> disclaimer: in progress project - currently shown images will be 
         replaced by original illustrations. until then, image credits 
         to original artists </p>
     </div>
