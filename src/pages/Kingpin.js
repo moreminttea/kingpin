@@ -1,6 +1,8 @@
 import React from "react";
+import ReactCardFlip from 'react-card-flip';
 import './/Kingpin.css';
 import card_temp from './img/card_temp.png';
+import sumina_cardTemp from './img/sumina_cardTemp.png';
 
 function Kingpin(){
     return (
@@ -15,15 +17,17 @@ function Kingpin(){
                         the hand that feeds you, but what happens when you discover the hand has
                         been poisoning you all along?
                     </p>
+                    <br></br>
+                    <p><b>hover over a card and see its owner</b></p>
                 </div>
                 <div className="kingpin_selection">
-                    <img src={card_temp} className="card"/>
-                    <img src={card_temp} className="card"/>
-                    <img src={card_temp} className="card"/>
-                    <img src={card_temp} className="card"/>
-                    <img src={card_temp} className="card"/>
-                    <img src={card_temp} className="card"/>
-                    <img src={card_temp} className="card"/>
+                    <div className="card"></div>
+                    <div className="card"></div>
+                    <div className="card"></div>
+                    <div className="card"></div>
+                    <div className="card"></div>
+                    <div className="card"></div>
+                    <div className="suminaCard"></div>
                 </div>
             </div>
             <br></br>

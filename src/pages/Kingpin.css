@@ -27,11 +27,38 @@
 
 .kingpin_selection {
     width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    justify-content: center;
 }
 
-.card {
-    width: 11.5%;
-    height: 100%;
-    padding: 10px;
-    margin-top: 10px;
+.card, .suminaCard {
+    width: 153.125px;
+    height: 216.5625px;
+    margin: 10px;
+    border: solid black 1px;
+    border-radius: 5px;
+    background: url('./img/card_temp.png') no-repeat;
+    background-size: 153.125px 216.5625px;
+    -moz-transition: scaleX(-1);
+    -webkit-transition: scaleX(-1);
+    -o-transition: scaleX(-1);
+    -ms-transition: scaleX(-1);
+    transition: scaleX(-1);
+}
+    
+.suminaCard {
+    background: url('./img/sumina_cardTemp.png') no-repeat;
+    background-size: 153.125px 216.5625px;
+}
+
+.suminaCard:hover {
+    background: url('./img/sumina_iconTemp.png') no-repeat;
+    background-size: 153.125px 216.5625px;
+    -moz-transform: scaleX(1);
+    -webkit-transform: scaleX(1);
+    -o-transform: scaleX(1);
+    -ms-transform: scaleX(1);
+    transform: scaleX(1);
 }
