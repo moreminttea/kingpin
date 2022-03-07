@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/kingpin/static/css/main.c54ccf20.chunk.css",
-    "main.js": "/kingpin/static/js/main.173e8dc0.chunk.js",
-    "main.js.map": "/kingpin/static/js/main.173e8dc0.chunk.js.map",
+    "main.css": "/kingpin/static/css/main.b6114c2f.chunk.css",
+    "main.js": "/kingpin/static/js/main.47308c84.chunk.js",
+    "main.js.map": "/kingpin/static/js/main.47308c84.chunk.js.map",
     "runtime-main.js": "/kingpin/static/js/runtime-main.d1a3c5fe.js",
     "runtime-main.js.map": "/kingpin/static/js/runtime-main.d1a3c5fe.js.map",
-    "static/js/2.99bdc084.chunk.js": "/kingpin/static/js/2.99bdc084.chunk.js",
-    "static/js/2.99bdc084.chunk.js.map": "/kingpin/static/js/2.99bdc084.chunk.js.map",
+    "static/js/2.7a61249b.chunk.js": "/kingpin/static/js/2.7a61249b.chunk.js",
+    "static/js/2.7a61249b.chunk.js.map": "/kingpin/static/js/2.7a61249b.chunk.js.map",
     "index.html": "/kingpin/index.html",
-    "precache-manifest.306ecb58f7511f9a3fba7bdd7175ec7b.js": "/kingpin/precache-manifest.306ecb58f7511f9a3fba7bdd7175ec7b.js",
+    "precache-manifest.81a471fe23acd816d4ee4fe8dfbfd6e8.js": "/kingpin/precache-manifest.81a471fe23acd816d4ee4fe8dfbfd6e8.js",
     "service-worker.js": "/kingpin/service-worker.js",
-    "static/css/main.c54ccf20.chunk.css.map": "/kingpin/static/css/main.c54ccf20.chunk.css.map",
-    "static/js/2.99bdc084.chunk.js.LICENSE.txt": "/kingpin/static/js/2.99bdc084.chunk.js.LICENSE.txt",
-    "static/media/Kingpin.css": "/kingpin/static/media/sumina_iconTemp.b9d5e798.png",
+    "static/css/main.b6114c2f.chunk.css.map": "/kingpin/static/css/main.b6114c2f.chunk.css.map",
+    "static/js/2.7a61249b.chunk.js.LICENSE.txt": "/kingpin/static/js/2.7a61249b.chunk.js.LICENSE.txt",
+    "static/media/alcerium_temp.jpg": "/kingpin/static/media/alcerium_temp.b73d63b7.jpg",
+    "static/media/Kingpin.css": "/kingpin/static/media/sumina_icon.b9d5e798.png",
     "static/media/castorix_temp.jpg": "/kingpin/static/media/castorix_temp.aaab6079.jpg",
     "static/media/down_arrow.png": "/kingpin/static/media/down_arrow.f5e772f2.png",
     "static/media/koranin_temp.jpg": "/kingpin/static/media/koranin_temp.5e3026f8.jpg",
-    "static/media/sumina_cardTemp.png": "/kingpin/static/media/sumina_cardTemp.8f746127.png",
+    "static/media/lyrisius_icon.png": "/kingpin/static/media/lyrisius_icon.c9dd48d5.png",
+    "static/media/lysande_icon.png": "/kingpin/static/media/lysande_icon.a53add1d.png",
     "static/media/up_arrow.png": "/kingpin/static/media/up_arrow.7cc73c27.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d1a3c5fe.js",
-    "static/js/2.99bdc084.chunk.js",
-    "static/css/main.c54ccf20.chunk.css",
-    "static/js/main.173e8dc0.chunk.js"
+    "static/js/2.7a61249b.chunk.js",
+    "static/css/main.b6114c2f.chunk.css",
+    "static/js/main.47308c84.chunk.js"
   ]
 }
