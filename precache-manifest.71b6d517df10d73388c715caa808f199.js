@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5ee0efad994b2e8440baa0a5d80e8eb",
+    "revision": "8b798a022a35f010333c790354039a39",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "25247aaac39e46c5c7bf",
-    "url": "/kingpin/static/css/main.3eb0d789.chunk.css"
+    "revision": "fa8ff2a6eec8876a9a6c",
+    "url": "/kingpin/static/css/main.76c7d51f.chunk.css"
   },
   {
     "revision": "07841cf4bc874212b006",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/js/2.51bcf1aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25247aaac39e46c5c7bf",
+    "revision": "fa8ff2a6eec8876a9a6c",
     "url": "/kingpin/static/js/main.3691fc7a.chunk.js"
   },
   {
