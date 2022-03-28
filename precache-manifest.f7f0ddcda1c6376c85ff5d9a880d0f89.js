@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6693883e72ae404ef8b91f856e502efd",
+    "revision": "eebb8a4e121c96f4cdb4ebd4c2701db0",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "06eb8e5ac88712516289",
-    "url": "/kingpin/static/css/main.6b75a054.chunk.css"
+    "revision": "d59443bf5b03d0c3c51c",
+    "url": "/kingpin/static/css/main.d0347b75.chunk.css"
   },
   {
     "revision": "d7da13130d42ab6b0941",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/js/2.faeed10e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "06eb8e5ac88712516289",
-    "url": "/kingpin/static/js/main.5281821a.chunk.js"
+    "revision": "d59443bf5b03d0c3c51c",
+    "url": "/kingpin/static/js/main.1badefeb.chunk.js"
   },
   {
     "revision": "c12b79d825cce587fbe8",
@@ -52,10 +52,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/castorix_temp.aaab6079.jpg"
   },
   {
-    "revision": "f5e772f2613270a23de56c12287f5ee9",
-    "url": "/kingpin/static/media/down_arrow.f5e772f2.png"
-  },
-  {
     "revision": "1360c3dd7570ccc890411288837479f8",
     "url": "/kingpin/static/media/fullbody_temp.1360c3dd.png"
   },
@@ -78,10 +74,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c66bf1be570bf938ccc86c8eda62ffaf",
     "url": "/kingpin/static/media/sumina_icon.c66bf1be.png"
-  },
-  {
-    "revision": "7cc73c27c97899f9123b4a0cf62d7591",
-    "url": "/kingpin/static/media/up_arrow.7cc73c27.png"
   },
   {
     "revision": "2c83f6a1c65be9c8a6159b068f825a08",
