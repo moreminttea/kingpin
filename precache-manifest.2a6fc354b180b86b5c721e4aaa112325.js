@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e74cf5b4d6a81e49657f99aac910cc3c",
+    "revision": "b6def54d363c3e18a6bef232feead0a4",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "6dd792fe7f7110e95493",
-    "url": "/kingpin/static/css/main.1090453e.chunk.css"
+    "revision": "a4cc901300621fe62294",
+    "url": "/kingpin/static/css/main.ab26d797.chunk.css"
   },
   {
-    "revision": "d7da13130d42ab6b0941",
-    "url": "/kingpin/static/js/2.faeed10e.chunk.js"
+    "revision": "47efc7aeacde3c0e4ced",
+    "url": "/kingpin/static/js/2.742ce255.chunk.js"
   },
   {
     "revision": "a90bb751b102ed9d8f9443a23ededd32",
-    "url": "/kingpin/static/js/2.faeed10e.chunk.js.LICENSE.txt"
+    "url": "/kingpin/static/js/2.742ce255.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6dd792fe7f7110e95493",
-    "url": "/kingpin/static/js/main.8d29af63.chunk.js"
+    "revision": "a4cc901300621fe62294",
+    "url": "/kingpin/static/js/main.3d609497.chunk.js"
   },
   {
     "revision": "c12b79d825cce587fbe8",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b73d63b76b7526506340bfa360784d0e",
     "url": "/kingpin/static/media/alcerium_temp.b73d63b7.jpg"
+  },
+  {
+    "revision": "398b5baf3e0a3c8f68b4664e1d4a6861",
+    "url": "/kingpin/static/media/brighte_card.398b5baf.png"
   },
   {
     "revision": "777cf076e22c2db3fcdf053d1e217b8c",
@@ -62,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6e9d3c627c40674c2a60dc4d7c3708c2",
     "url": "/kingpin/static/media/lysande_icon.6e9d3c62.png"
+  },
+  {
+    "revision": "8f7461276835733a8c8e7c5633877ab6",
+    "url": "/kingpin/static/media/sumina_card.8f746127.png"
   },
   {
     "revision": "c66bf1be570bf938ccc86c8eda62ffaf",

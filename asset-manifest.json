@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/kingpin/static/css/main.1090453e.chunk.css",
-    "main.js": "/kingpin/static/js/main.8d29af63.chunk.js",
-    "main.js.map": "/kingpin/static/js/main.8d29af63.chunk.js.map",
+    "main.css": "/kingpin/static/css/main.ab26d797.chunk.css",
+    "main.js": "/kingpin/static/js/main.3d609497.chunk.js",
+    "main.js.map": "/kingpin/static/js/main.3d609497.chunk.js.map",
     "runtime-main.js": "/kingpin/static/js/runtime-main.d1a3c5fe.js",
     "runtime-main.js.map": "/kingpin/static/js/runtime-main.d1a3c5fe.js.map",
-    "static/js/2.faeed10e.chunk.js": "/kingpin/static/js/2.faeed10e.chunk.js",
-    "static/js/2.faeed10e.chunk.js.map": "/kingpin/static/js/2.faeed10e.chunk.js.map",
+    "static/js/2.742ce255.chunk.js": "/kingpin/static/js/2.742ce255.chunk.js",
+    "static/js/2.742ce255.chunk.js.map": "/kingpin/static/js/2.742ce255.chunk.js.map",
     "index.html": "/kingpin/index.html",
-    "precache-manifest.a5842b2ae8a7de8180abbbf6a91f0a54.js": "/kingpin/precache-manifest.a5842b2ae8a7de8180abbbf6a91f0a54.js",
+    "precache-manifest.2a6fc354b180b86b5c721e4aaa112325.js": "/kingpin/precache-manifest.2a6fc354b180b86b5c721e4aaa112325.js",
     "service-worker.js": "/kingpin/service-worker.js",
-    "static/css/main.1090453e.chunk.css.map": "/kingpin/static/css/main.1090453e.chunk.css.map",
-    "static/js/2.faeed10e.chunk.js.LICENSE.txt": "/kingpin/static/js/2.faeed10e.chunk.js.LICENSE.txt",
+    "static/css/main.ab26d797.chunk.css.map": "/kingpin/static/css/main.ab26d797.chunk.css.map",
+    "static/js/2.742ce255.chunk.js.LICENSE.txt": "/kingpin/static/js/2.742ce255.chunk.js.LICENSE.txt",
     "static/media/alcerium_icon.png": "/kingpin/static/media/alcerium_icon.3952ef03.png",
     "static/media/alcerium_temp.jpg": "/kingpin/static/media/alcerium_temp.b73d63b7.jpg",
+    "static/media/brighte_card.png": "/kingpin/static/media/brighte_card.398b5baf.png",
     "static/media/Kingpin.css": "/kingpin/static/media/sumina_icon.c66bf1be.png",
     "static/media/card_temp.png": "/kingpin/static/media/card_temp.47749acb.png",
     "static/media/castorix_icon.png": "/kingpin/static/media/castorix_icon.f1881e29.png",
@@ -21,12 +22,13 @@
     "static/media/koranin_temp.jpg": "/kingpin/static/media/koranin_temp.5e3026f8.jpg",
     "static/media/lyrisius_icon.png": "/kingpin/static/media/lyrisius_icon.056e67ad.png",
     "static/media/lysande_icon.png": "/kingpin/static/media/lysande_icon.6e9d3c62.png",
+    "static/media/sumina_card.png": "/kingpin/static/media/sumina_card.8f746127.png",
     "static/media/valterre_icon.png": "/kingpin/static/media/valterre_icon.63cfca5d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d1a3c5fe.js",
-    "static/js/2.faeed10e.chunk.js",
-    "static/css/main.1090453e.chunk.css",
-    "static/js/main.8d29af63.chunk.js"
+    "static/js/2.742ce255.chunk.js",
+    "static/css/main.ab26d797.chunk.css",
+    "static/js/main.3d609497.chunk.js"
   ]
 }
