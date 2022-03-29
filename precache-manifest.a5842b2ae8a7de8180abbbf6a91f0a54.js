@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eebb8a4e121c96f4cdb4ebd4c2701db0",
+    "revision": "e74cf5b4d6a81e49657f99aac910cc3c",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "d59443bf5b03d0c3c51c",
-    "url": "/kingpin/static/css/main.d0347b75.chunk.css"
+    "revision": "6dd792fe7f7110e95493",
+    "url": "/kingpin/static/css/main.1090453e.chunk.css"
   },
   {
     "revision": "d7da13130d42ab6b0941",
@@ -16,24 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/js/2.faeed10e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d59443bf5b03d0c3c51c",
-    "url": "/kingpin/static/js/main.1badefeb.chunk.js"
+    "revision": "6dd792fe7f7110e95493",
+    "url": "/kingpin/static/js/main.8d29af63.chunk.js"
   },
   {
     "revision": "c12b79d825cce587fbe8",
     "url": "/kingpin/static/js/runtime-main.d1a3c5fe.js"
   },
   {
-    "revision": "17d645f96f19cc92356a154c986d2f84",
-    "url": "/kingpin/static/media/alcerium_icon.17d645f9.png"
+    "revision": "3952ef03f714c7fce3e4ef93aa9b4be9",
+    "url": "/kingpin/static/media/alcerium_icon.3952ef03.png"
   },
   {
     "revision": "b73d63b76b7526506340bfa360784d0e",
     "url": "/kingpin/static/media/alcerium_temp.b73d63b7.jpg"
-  },
-  {
-    "revision": "398b5baf3e0a3c8f68b4664e1d4a6861",
-    "url": "/kingpin/static/media/brighte_card.398b5baf.png"
   },
   {
     "revision": "777cf076e22c2db3fcdf053d1e217b8c",
@@ -44,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/card_temp.47749acb.png"
   },
   {
-    "revision": "f5e81592c3f57e2f5ce4638c71d5cbed",
-    "url": "/kingpin/static/media/castorix_icon.f5e81592.png"
+    "revision": "f1881e294ef16a6c823012ae6f2ce36e",
+    "url": "/kingpin/static/media/castorix_icon.f1881e29.png"
   },
   {
     "revision": "aaab607926e03be0ecb42d7493ef09e9",
@@ -60,23 +56,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/koranin_temp.5e3026f8.jpg"
   },
   {
-    "revision": "7118e38254019e8be227a31b97aa50e8",
-    "url": "/kingpin/static/media/lyrisius_icon.7118e382.png"
+    "revision": "056e67ade82b04c0bfd83d4c42c49cca",
+    "url": "/kingpin/static/media/lyrisius_icon.056e67ad.png"
   },
   {
-    "revision": "a6213559210a2d8e8e51e574c810c887",
-    "url": "/kingpin/static/media/lysande_icon.a6213559.png"
-  },
-  {
-    "revision": "8f7461276835733a8c8e7c5633877ab6",
-    "url": "/kingpin/static/media/sumina_card.8f746127.png"
+    "revision": "6e9d3c627c40674c2a60dc4d7c3708c2",
+    "url": "/kingpin/static/media/lysande_icon.6e9d3c62.png"
   },
   {
     "revision": "c66bf1be570bf938ccc86c8eda62ffaf",
     "url": "/kingpin/static/media/sumina_icon.c66bf1be.png"
   },
   {
-    "revision": "2c83f6a1c65be9c8a6159b068f825a08",
-    "url": "/kingpin/static/media/valterre_icon.2c83f6a1.png"
+    "revision": "63cfca5d4ca2022560a2d0394ed05d36",
+    "url": "/kingpin/static/media/valterre_icon.63cfca5d.png"
   }
 ]);
