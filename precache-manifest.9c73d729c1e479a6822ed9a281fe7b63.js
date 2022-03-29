@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6def54d363c3e18a6bef232feead0a4",
+    "revision": "7164670c0cfe9ce9b39c877c10fa1ec1",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "a4cc901300621fe62294",
-    "url": "/kingpin/static/css/main.ab26d797.chunk.css"
+    "revision": "e93309a6a7ca831fd4c1",
+    "url": "/kingpin/static/css/main.dc9e50ac.chunk.css"
   },
   {
     "revision": "47efc7aeacde3c0e4ced",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/js/2.742ce255.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a4cc901300621fe62294",
+    "revision": "e93309a6a7ca831fd4c1",
     "url": "/kingpin/static/js/main.3d609497.chunk.js"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/brighte_card.398b5baf.png"
   },
   {
-    "revision": "777cf076e22c2db3fcdf053d1e217b8c",
-    "url": "/kingpin/static/media/brighte_icon.777cf076.png"
+    "revision": "17ccd49f76a121fb504b9b4bc167901c",
+    "url": "/kingpin/static/media/brighte_icon.17ccd49f.png"
   },
   {
     "revision": "47749acbd8951c054febaa9d2bb81508",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/sumina_card.8f746127.png"
   },
   {
-    "revision": "c66bf1be570bf938ccc86c8eda62ffaf",
-    "url": "/kingpin/static/media/sumina_icon.c66bf1be.png"
+    "revision": "415c7fb7d563a9da8ea902382fc1206f",
+    "url": "/kingpin/static/media/sumina_icon.415c7fb7.png"
   },
   {
     "revision": "63cfca5d4ca2022560a2d0394ed05d36",
