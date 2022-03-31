@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f6b677b08c6feba178ef38cf142af2d",
+    "revision": "20449276b035c18ce1754b0e7a46b8e0",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "6f672f40f1092ce08aa2",
-    "url": "/kingpin/static/css/main.803513c8.chunk.css"
+    "revision": "ae59b98d3d7af8dd87d8",
+    "url": "/kingpin/static/css/main.295d6724.chunk.css"
   },
   {
-    "revision": "ac5b32f6426a654c9156",
-    "url": "/kingpin/static/js/2.1271aeaf.chunk.js"
+    "revision": "9aa2cf389f35d793e7c9",
+    "url": "/kingpin/static/js/2.16e7ce64.chunk.js"
   },
   {
     "revision": "a90bb751b102ed9d8f9443a23ededd32",
-    "url": "/kingpin/static/js/2.1271aeaf.chunk.js.LICENSE.txt"
+    "url": "/kingpin/static/js/2.16e7ce64.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6f672f40f1092ce08aa2",
-    "url": "/kingpin/static/js/main.621d182e.chunk.js"
+    "revision": "ae59b98d3d7af8dd87d8",
+    "url": "/kingpin/static/js/main.1499a51c.chunk.js"
   },
   {
     "revision": "c12b79d825cce587fbe8",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "17ccd49f76a121fb504b9b4bc167901c",
     "url": "/kingpin/static/media/brighte_icon.17ccd49f.png"
-  },
-  {
-    "revision": "47749acbd8951c054febaa9d2bb81508",
-    "url": "/kingpin/static/media/card_temp.47749acb.png"
   },
   {
     "revision": "f1881e294ef16a6c823012ae6f2ce36e",

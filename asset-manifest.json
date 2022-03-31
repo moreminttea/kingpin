@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/kingpin/static/css/main.803513c8.chunk.css",
-    "main.js": "/kingpin/static/js/main.621d182e.chunk.js",
-    "main.js.map": "/kingpin/static/js/main.621d182e.chunk.js.map",
+    "main.css": "/kingpin/static/css/main.295d6724.chunk.css",
+    "main.js": "/kingpin/static/js/main.1499a51c.chunk.js",
+    "main.js.map": "/kingpin/static/js/main.1499a51c.chunk.js.map",
     "runtime-main.js": "/kingpin/static/js/runtime-main.d1a3c5fe.js",
     "runtime-main.js.map": "/kingpin/static/js/runtime-main.d1a3c5fe.js.map",
-    "static/js/2.1271aeaf.chunk.js": "/kingpin/static/js/2.1271aeaf.chunk.js",
-    "static/js/2.1271aeaf.chunk.js.map": "/kingpin/static/js/2.1271aeaf.chunk.js.map",
+    "static/js/2.16e7ce64.chunk.js": "/kingpin/static/js/2.16e7ce64.chunk.js",
+    "static/js/2.16e7ce64.chunk.js.map": "/kingpin/static/js/2.16e7ce64.chunk.js.map",
     "index.html": "/kingpin/index.html",
-    "precache-manifest.9db27237448f57f4051ae20b73ba5bf8.js": "/kingpin/precache-manifest.9db27237448f57f4051ae20b73ba5bf8.js",
+    "precache-manifest.e47640cdae930b05795580e2266cc67f.js": "/kingpin/precache-manifest.e47640cdae930b05795580e2266cc67f.js",
     "service-worker.js": "/kingpin/service-worker.js",
-    "static/css/main.803513c8.chunk.css.map": "/kingpin/static/css/main.803513c8.chunk.css.map",
-    "static/js/2.1271aeaf.chunk.js.LICENSE.txt": "/kingpin/static/js/2.1271aeaf.chunk.js.LICENSE.txt",
+    "static/css/main.295d6724.chunk.css.map": "/kingpin/static/css/main.295d6724.chunk.css.map",
+    "static/js/2.16e7ce64.chunk.js.LICENSE.txt": "/kingpin/static/js/2.16e7ce64.chunk.js.LICENSE.txt",
     "static/media/alcerium_icon.png": "/kingpin/static/media/alcerium_icon.3952ef03.png",
     "static/media/alcerium_iconRed.png": "/kingpin/static/media/alcerium_iconRed.2a670826.png",
     "static/media/alcerium_iconWhite.png": "/kingpin/static/media/alcerium_iconWhite.29c97321.png",
     "static/media/alcerium_temp.jpg": "/kingpin/static/media/alcerium_temp.b73d63b7.jpg",
     "static/media/brighte_card.png": "/kingpin/static/media/brighte_card.398b5baf.png",
     "static/media/Kingpin.css": "/kingpin/static/media/sumina_icon.656a7c8d.png",
-    "static/media/card_temp.png": "/kingpin/static/media/card_temp.47749acb.png",
     "static/media/castorix_icon.png": "/kingpin/static/media/castorix_icon.f1881e29.png",
     "static/media/castorix_iconRed.png": "/kingpin/static/media/castorix_iconRed.47e192ae.png",
     "static/media/castorix_iconWhite.png": "/kingpin/static/media/castorix_iconWhite.6dd0e4d1.png",
+    "static/media/Incarnate.css": "/kingpin/static/media/fullbody_temp.1360c3dd.png",
     "static/media/joker_icon.png": "/kingpin/static/media/joker_icon.273e6853.png",
     "static/media/joker_iconRed.png": "/kingpin/static/media/joker_iconRed.bad910d6.png",
     "static/media/koranin_temp.jpg": "/kingpin/static/media/koranin_temp.5e3026f8.jpg",
@@ -39,8 +39,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d1a3c5fe.js",
-    "static/js/2.1271aeaf.chunk.js",
-    "static/css/main.803513c8.chunk.css",
-    "static/js/main.621d182e.chunk.js"
+    "static/js/2.16e7ce64.chunk.js",
+    "static/css/main.295d6724.chunk.css",
+    "static/js/main.1499a51c.chunk.js"
   ]
 }
