@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kingpin/static/css/main.295d6724.chunk.css",
-    "main.js": "/kingpin/static/js/main.1499a51c.chunk.js",
-    "main.js.map": "/kingpin/static/js/main.1499a51c.chunk.js.map",
+    "main.css": "/kingpin/static/css/main.d3843d0d.chunk.css",
+    "main.js": "/kingpin/static/js/main.0694e122.chunk.js",
+    "main.js.map": "/kingpin/static/js/main.0694e122.chunk.js.map",
     "runtime-main.js": "/kingpin/static/js/runtime-main.d1a3c5fe.js",
     "runtime-main.js.map": "/kingpin/static/js/runtime-main.d1a3c5fe.js.map",
     "static/js/2.16e7ce64.chunk.js": "/kingpin/static/js/2.16e7ce64.chunk.js",
     "static/js/2.16e7ce64.chunk.js.map": "/kingpin/static/js/2.16e7ce64.chunk.js.map",
     "index.html": "/kingpin/index.html",
-    "precache-manifest.e47640cdae930b05795580e2266cc67f.js": "/kingpin/precache-manifest.e47640cdae930b05795580e2266cc67f.js",
+    "precache-manifest.76da1f42810a37074650351dab04a2de.js": "/kingpin/precache-manifest.76da1f42810a37074650351dab04a2de.js",
     "service-worker.js": "/kingpin/service-worker.js",
-    "static/css/main.295d6724.chunk.css.map": "/kingpin/static/css/main.295d6724.chunk.css.map",
+    "static/css/main.d3843d0d.chunk.css.map": "/kingpin/static/css/main.d3843d0d.chunk.css.map",
     "static/js/2.16e7ce64.chunk.js.LICENSE.txt": "/kingpin/static/js/2.16e7ce64.chunk.js.LICENSE.txt",
     "static/media/alcerium_icon.png": "/kingpin/static/media/alcerium_icon.3952ef03.png",
     "static/media/alcerium_iconRed.png": "/kingpin/static/media/alcerium_iconRed.2a670826.png",
@@ -40,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.d1a3c5fe.js",
     "static/js/2.16e7ce64.chunk.js",
-    "static/css/main.295d6724.chunk.css",
-    "static/js/main.1499a51c.chunk.js"
+    "static/css/main.d3843d0d.chunk.css",
+    "static/js/main.0694e122.chunk.js"
   ]
 }
