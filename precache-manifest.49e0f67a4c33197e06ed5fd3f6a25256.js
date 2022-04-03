@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd7e2a1e6963d450507ece68632ef276",
+    "revision": "5bdbde1be1ee6871e3d474097316fa5b",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "bb4148ed694d42b5975d",
-    "url": "/kingpin/static/css/main.872c1595.chunk.css"
+    "revision": "35bad11ce441cef48c6d",
+    "url": "/kingpin/static/css/main.34dbeef1.chunk.css"
   },
   {
     "revision": "c5352447c9d07a32ceee",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/js/2.c760838e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bb4148ed694d42b5975d",
-    "url": "/kingpin/static/js/main.32891cca.chunk.js"
+    "revision": "35bad11ce441cef48c6d",
+    "url": "/kingpin/static/js/main.94652c59.chunk.js"
   },
   {
     "revision": "c12b79d825cce587fbe8",
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/lydi_card.43dc0c4f.png"
   },
   {
-    "revision": "dc34f6b96a710b8e15649564d7a7354d",
-    "url": "/kingpin/static/media/lydi_icon.dc34f6b9.png"
+    "revision": "2b86fb9dbb99f3424018b187e2674159",
+    "url": "/kingpin/static/media/lydi_icon.2b86fb9d.png"
   },
   {
     "revision": "056e67ade82b04c0bfd83d4c42c49cca",
