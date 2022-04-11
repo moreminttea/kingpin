@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2982773519a0a6d6d0c7d6786a4331eb",
+    "revision": "f1a74a1dceb58462c1c298ea8d8952bd",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "3e45897fa2a84e0c662d",
-    "url": "/kingpin/static/css/main.76763c2d.chunk.css"
+    "revision": "17bf5dc137000f860f3d",
+    "url": "/kingpin/static/css/main.1dcee471.chunk.css"
   },
   {
     "revision": "68400a8063259ec67b5a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/js/2.4e2d7418.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e45897fa2a84e0c662d",
+    "revision": "17bf5dc137000f860f3d",
     "url": "/kingpin/static/js/main.fc925f9b.chunk.js"
   },
   {
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/lydi_card.43dc0c4f.png"
   },
   {
-    "revision": "7f1d225af9ad401ae09be444ae2cf6d5",
-    "url": "/kingpin/static/media/lydi_icon.7f1d225a.png"
+    "revision": "17cbd76e348ed8ee11c6336ba99ab48e",
+    "url": "/kingpin/static/media/lydi_icon.17cbd76e.png"
   },
   {
     "revision": "056e67ade82b04c0bfd83d4c42c49cca",
@@ -144,8 +144,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/sumina_card.8f746127.png"
   },
   {
-    "revision": "f89fbfebcb3a081b0288d0afebf17948",
-    "url": "/kingpin/static/media/sumina_icon.f89fbfeb.png"
+    "revision": "7f1d69f5ad4a01a83e604d44d4a9f80e",
+    "url": "/kingpin/static/media/sumina_icon.7f1d69f5.png"
   },
   {
     "revision": "6edc35ed9a01d0ff2aad9bb6ebca481b",
