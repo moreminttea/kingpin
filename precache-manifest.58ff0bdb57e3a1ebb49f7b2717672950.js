@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad26bf68de3b88cc2625219646fc95d6",
+    "revision": "2982773519a0a6d6d0c7d6786a4331eb",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "c3a4e6c2c45cb2ecc48d",
-    "url": "/kingpin/static/css/main.9ba8ecca.chunk.css"
+    "revision": "3e45897fa2a84e0c662d",
+    "url": "/kingpin/static/css/main.76763c2d.chunk.css"
   },
   {
-    "revision": "c5352447c9d07a32ceee",
-    "url": "/kingpin/static/js/2.c760838e.chunk.js"
+    "revision": "68400a8063259ec67b5a",
+    "url": "/kingpin/static/js/2.4e2d7418.chunk.js"
   },
   {
     "revision": "a90bb751b102ed9d8f9443a23ededd32",
-    "url": "/kingpin/static/js/2.c760838e.chunk.js.LICENSE.txt"
+    "url": "/kingpin/static/js/2.4e2d7418.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c3a4e6c2c45cb2ecc48d",
-    "url": "/kingpin/static/js/main.c7f6c202.chunk.js"
+    "revision": "3e45897fa2a84e0c662d",
+    "url": "/kingpin/static/js/main.fc925f9b.chunk.js"
   },
   {
     "revision": "c12b79d825cce587fbe8",
@@ -76,12 +76,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/koranin_temp.5e3026f8.jpg"
   },
   {
+    "revision": "1360c3dd7570ccc890411288837479f8",
+    "url": "/kingpin/static/media/laleh_card.1360c3dd.png"
+  },
+  {
+    "revision": "1360c3dd7570ccc890411288837479f8",
+    "url": "/kingpin/static/media/laleh_icon.1360c3dd.png"
+  },
+  {
     "revision": "43dc0c4fc9144ce52d68f143502582b9",
     "url": "/kingpin/static/media/lydi_card.43dc0c4f.png"
   },
   {
-    "revision": "2b86fb9dbb99f3424018b187e2674159",
-    "url": "/kingpin/static/media/lydi_icon.2b86fb9d.png"
+    "revision": "7f1d225af9ad401ae09be444ae2cf6d5",
+    "url": "/kingpin/static/media/lydi_icon.7f1d225a.png"
   },
   {
     "revision": "056e67ade82b04c0bfd83d4c42c49cca",
@@ -108,12 +116,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/lysande_iconWhite.6dce6f26.png"
   },
   {
+    "revision": "1360c3dd7570ccc890411288837479f8",
+    "url": "/kingpin/static/media/nakoa_card.1360c3dd.png"
+  },
+  {
+    "revision": "bfc7104238f1ee7a30e640d3a7e51c39",
+    "url": "/kingpin/static/media/nakoa_icon.bfc71042.png"
+  },
+  {
+    "revision": "1360c3dd7570ccc890411288837479f8",
+    "url": "/kingpin/static/media/rin_card.1360c3dd.png"
+  },
+  {
+    "revision": "1360c3dd7570ccc890411288837479f8",
+    "url": "/kingpin/static/media/rin_icon.1360c3dd.png"
+  },
+  {
+    "revision": "1360c3dd7570ccc890411288837479f8",
+    "url": "/kingpin/static/media/robyn_card.1360c3dd.png"
+  },
+  {
+    "revision": "1360c3dd7570ccc890411288837479f8",
+    "url": "/kingpin/static/media/robyn_icon.1360c3dd.png"
+  },
+  {
     "revision": "8f7461276835733a8c8e7c5633877ab6",
     "url": "/kingpin/static/media/sumina_card.8f746127.png"
   },
   {
-    "revision": "656a7c8d33d338e030b19f4c8a9f7d7d",
-    "url": "/kingpin/static/media/sumina_icon.656a7c8d.png"
+    "revision": "f89fbfebcb3a081b0288d0afebf17948",
+    "url": "/kingpin/static/media/sumina_icon.f89fbfeb.png"
   },
   {
     "revision": "6edc35ed9a01d0ff2aad9bb6ebca481b",
