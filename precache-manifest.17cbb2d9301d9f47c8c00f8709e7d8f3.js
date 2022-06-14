@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff45ea0640d12e2f3569803a2342fc76",
+    "revision": "2bb52e0dd3a6f5970acfcb88cd679bbf",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "8a340240af1bcfcf817f",
-    "url": "/kingpin/static/css/main.59df96bc.chunk.css"
+    "revision": "38308c7ea13b9476a4c7",
+    "url": "/kingpin/static/css/main.c5822656.chunk.css"
   },
   {
     "revision": "0b5839834c7c25c0250b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/js/2.6d01d86e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a340240af1bcfcf817f",
+    "revision": "38308c7ea13b9476a4c7",
     "url": "/kingpin/static/js/main.b84ba488.chunk.js"
   },
   {
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/laleh_card.1360c3dd.png"
   },
   {
-    "revision": "1360c3dd7570ccc890411288837479f8",
-    "url": "/kingpin/static/media/laleh_icon.1360c3dd.png"
+    "revision": "758e692af1bfeb39333747a9cd06624b",
+    "url": "/kingpin/static/media/laleh_icon.758e692a.png"
   },
   {
     "revision": "43dc0c4fc9144ce52d68f143502582b9",
