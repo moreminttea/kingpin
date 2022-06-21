@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2bb52e0dd3a6f5970acfcb88cd679bbf",
+    "revision": "e46b10e7ed68f71570ebd641511ca52a",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "38308c7ea13b9476a4c7",
-    "url": "/kingpin/static/css/main.c5822656.chunk.css"
+    "revision": "ca7ec27a03ab9b442fce",
+    "url": "/kingpin/static/css/main.ae2a82ad.chunk.css"
   },
   {
-    "revision": "0b5839834c7c25c0250b",
-    "url": "/kingpin/static/js/2.6d01d86e.chunk.js"
+    "revision": "7fe4d152d2020864383e",
+    "url": "/kingpin/static/js/2.4513cbee.chunk.js"
   },
   {
     "revision": "a90bb751b102ed9d8f9443a23ededd32",
-    "url": "/kingpin/static/js/2.6d01d86e.chunk.js.LICENSE.txt"
+    "url": "/kingpin/static/js/2.4513cbee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "38308c7ea13b9476a4c7",
-    "url": "/kingpin/static/js/main.b84ba488.chunk.js"
+    "revision": "ca7ec27a03ab9b442fce",
+    "url": "/kingpin/static/js/main.2f1c3536.chunk.js"
   },
   {
     "revision": "c12b79d825cce587fbe8",
@@ -92,8 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/lydi_card.43dc0c4f.png"
   },
   {
-    "revision": "88dae71f47657f34bb30a9855025dbae",
-    "url": "/kingpin/static/media/lydi_icon.88dae71f.png"
+    "revision": "05732343fcd193bef21259454af10010",
+    "url": "/kingpin/static/media/lydi_fullbody.05732343.png"
+  },
+  {
+    "revision": "0de0b8e743fbc1b2d8b6bccb0401a552",
+    "url": "/kingpin/static/media/lydi_icon.0de0b8e7.png"
   },
   {
     "revision": "056e67ade82b04c0bfd83d4c42c49cca",
