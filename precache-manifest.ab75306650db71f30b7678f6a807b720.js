@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90e560cb920071b2d73062286dd1a9c2",
+    "revision": "57945ddcb40058f3b5bcf410a8543229",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "52a6619461a06d56f57b",
-    "url": "/kingpin/static/css/main.e6a39243.chunk.css"
+    "revision": "3957f203b9d56b8f6007",
+    "url": "/kingpin/static/css/2.e6d2f6ae.chunk.css"
   },
   {
-    "revision": "01eef0f46ce8bc18f1a0",
-    "url": "/kingpin/static/js/2.74570a95.chunk.js"
+    "revision": "924038d264fcb2d34e61",
+    "url": "/kingpin/static/css/main.8777d275.chunk.css"
+  },
+  {
+    "revision": "3957f203b9d56b8f6007",
+    "url": "/kingpin/static/js/2.cbc1032e.chunk.js"
   },
   {
     "revision": "a90bb751b102ed9d8f9443a23ededd32",
-    "url": "/kingpin/static/js/2.74570a95.chunk.js.LICENSE.txt"
+    "url": "/kingpin/static/js/2.cbc1032e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "52a6619461a06d56f57b",
-    "url": "/kingpin/static/js/main.5e3c5f26.chunk.js"
+    "revision": "924038d264fcb2d34e61",
+    "url": "/kingpin/static/js/main.f25fd4d5.chunk.js"
   },
   {
     "revision": "c12b79d825cce587fbe8",
@@ -38,6 +42,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b73d63b76b7526506340bfa360784d0e",
     "url": "/kingpin/static/media/alcerium_temp.b73d63b7.jpg"
+  },
+  {
+    "revision": "db6ee7ef53df55e648312b6496e9f121",
+    "url": "/kingpin/static/media/alcerium_temp.db6ee7ef.png"
+  },
+  {
+    "revision": "ee02350afb91679693afc05b5f77cc4e",
+    "url": "/kingpin/static/media/arkenal.ee02350a.png"
   },
   {
     "revision": "398b5baf3e0a3c8f68b4664e1d4a6861",
@@ -64,8 +76,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/castorix_iconWhite.6dd0e4d1.png"
   },
   {
+    "revision": "346ff9774dd008cf359926dee70cc338",
+    "url": "/kingpin/static/media/castorix_temp.346ff977.png"
+  },
+  {
+    "revision": "0e8c5381c6d575a0bd06e6085e7eedb7",
+    "url": "/kingpin/static/media/depths_of_valerim.0e8c5381.png"
+  },
+  {
+    "revision": "0dad1bcc458f2ceaab4afabec1109f0a",
+    "url": "/kingpin/static/media/excelia_academy.0dad1bcc.png"
+  },
+  {
     "revision": "468d587cf4735dd0dbf6d9ecc95d7604",
     "url": "/kingpin/static/media/fullbody_temp.468d587c.png"
+  },
+  {
+    "revision": "310629940d87ab5aa7374208daa28bea",
+    "url": "/kingpin/static/media/havensworth.31062994.png"
   },
   {
     "revision": "273e685385ccf417bfa995ab25e8ab42",
@@ -76,8 +104,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/joker_iconRed.bad910d6.png"
   },
   {
+    "revision": "f5a206dc7e775117a114a1ad18c220c3",
+    "url": "/kingpin/static/media/karable.f5a206dc.png"
+  },
+  {
     "revision": "5e3026f8ddc8924c62138c402c5cd8e2",
     "url": "/kingpin/static/media/koranin_temp.5e3026f8.jpg"
+  },
+  {
+    "revision": "7239098e70d267910d100f28abdf5d37",
+    "url": "/kingpin/static/media/kozen_shrine.7239098e.png"
   },
   {
     "revision": "1360c3dd7570ccc890411288837479f8",
@@ -140,6 +176,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/nakoa_icon.a3dff77b.png"
   },
   {
+    "revision": "67149db489495f34ecd82d34c91d62f4",
+    "url": "/kingpin/static/media/port_of_royals.67149db4.png"
+  },
+  {
+    "revision": "5575cb0fe5cf59830c66620fa208f067",
+    "url": "/kingpin/static/media/purblinde.5575cb0f.png"
+  },
+  {
     "revision": "1360c3dd7570ccc890411288837479f8",
     "url": "/kingpin/static/media/rin_card.1360c3dd.png"
   },
@@ -164,6 +208,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/robyn_icon.1360c3dd.png"
   },
   {
+    "revision": "ebae85d19a2307d45735507ac82e2576",
+    "url": "/kingpin/static/media/sohly_tair.ebae85d1.png"
+  },
+  {
     "revision": "8f7461276835733a8c8e7c5633877ab6",
     "url": "/kingpin/static/media/sumina_card.8f746127.png"
   },
@@ -180,6 +228,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/systems_temp.6edc35ed.jpg"
   },
   {
+    "revision": "67482fe19d04363e482917daca666763",
+    "url": "/kingpin/static/media/the_elite_court.67482fe1.png"
+  },
+  {
+    "revision": "aaab607926e03be0ecb42d7493ef09e9",
+    "url": "/kingpin/static/media/the_north_star.aaab6079.png"
+  },
+  {
     "revision": "63cfca5d4ca2022560a2d0394ed05d36",
     "url": "/kingpin/static/media/valterre_icon.63cfca5d.png"
   },
@@ -190,5 +246,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "46a9a1baf30078db54d1d1baf6a02399",
     "url": "/kingpin/static/media/valterre_iconWhite.46a9a1ba.png"
+  },
+  {
+    "revision": "7df2afa469dc6ad2e4555d2759ffa9f1",
+    "url": "/kingpin/static/media/valterre_temp.7df2afa4.png"
+  },
+  {
+    "revision": "daae73ce5c7982440139a024886d8d62",
+    "url": "/kingpin/static/media/zeronyn.daae73ce.png"
   }
 ]);
