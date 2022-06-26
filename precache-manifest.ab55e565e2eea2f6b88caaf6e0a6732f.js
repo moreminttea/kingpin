@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57945ddcb40058f3b5bcf410a8543229",
+    "revision": "40ded1a1ba9bef299cdfcfaec0fce017",
     "url": "/kingpin/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/css/2.e6d2f6ae.chunk.css"
   },
   {
-    "revision": "924038d264fcb2d34e61",
-    "url": "/kingpin/static/css/main.8777d275.chunk.css"
+    "revision": "ca8ca58836bfe8841f9f",
+    "url": "/kingpin/static/css/main.99b9b826.chunk.css"
   },
   {
     "revision": "3957f203b9d56b8f6007",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/js/2.cbc1032e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "924038d264fcb2d34e61",
-    "url": "/kingpin/static/js/main.f25fd4d5.chunk.js"
+    "revision": "ca8ca58836bfe8841f9f",
+    "url": "/kingpin/static/js/main.7afb0b78.chunk.js"
   },
   {
     "revision": "c12b79d825cce587fbe8",
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/alcerium_temp.b73d63b7.jpg"
   },
   {
-    "revision": "db6ee7ef53df55e648312b6496e9f121",
-    "url": "/kingpin/static/media/alcerium_temp.db6ee7ef.png"
+    "revision": "d01417d4ce6a89ca08cb944426f01593",
+    "url": "/kingpin/static/media/alcerium_temp.d01417d4.png"
   },
   {
-    "revision": "ee02350afb91679693afc05b5f77cc4e",
-    "url": "/kingpin/static/media/arkenal.ee02350a.png"
+    "revision": "93f235f65a611b6a1e26b6c0af80bf5c",
+    "url": "/kingpin/static/media/arkenal.93f235f6.png"
   },
   {
     "revision": "398b5baf3e0a3c8f68b4664e1d4a6861",
@@ -76,24 +76,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/castorix_iconWhite.6dd0e4d1.png"
   },
   {
-    "revision": "346ff9774dd008cf359926dee70cc338",
-    "url": "/kingpin/static/media/castorix_temp.346ff977.png"
+    "revision": "1808a5899fc894ecb63f27584af486b8",
+    "url": "/kingpin/static/media/castorix_temp.1808a589.png"
   },
   {
-    "revision": "0e8c5381c6d575a0bd06e6085e7eedb7",
-    "url": "/kingpin/static/media/depths_of_valerim.0e8c5381.png"
+    "revision": "08974a7ceaa713a1dccbfc7f7cd2b928",
+    "url": "/kingpin/static/media/depths_of_valerim.08974a7c.png"
   },
   {
-    "revision": "0dad1bcc458f2ceaab4afabec1109f0a",
-    "url": "/kingpin/static/media/excelia_academy.0dad1bcc.png"
+    "revision": "1720826f124bfd74ccab1c1b7c4acda4",
+    "url": "/kingpin/static/media/excelia_academy.1720826f.png"
   },
   {
     "revision": "468d587cf4735dd0dbf6d9ecc95d7604",
     "url": "/kingpin/static/media/fullbody_temp.468d587c.png"
   },
   {
-    "revision": "310629940d87ab5aa7374208daa28bea",
-    "url": "/kingpin/static/media/havensworth.31062994.png"
+    "revision": "e1a7ce5b08c58fec87424ca2a9bc9792",
+    "url": "/kingpin/static/media/havensworth.e1a7ce5b.png"
   },
   {
     "revision": "273e685385ccf417bfa995ab25e8ab42",
@@ -104,16 +104,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/joker_iconRed.bad910d6.png"
   },
   {
-    "revision": "f5a206dc7e775117a114a1ad18c220c3",
-    "url": "/kingpin/static/media/karable.f5a206dc.png"
+    "revision": "a581ba112ce4dc4ad0a733a4206f0b0a",
+    "url": "/kingpin/static/media/karable.a581ba11.png"
   },
   {
     "revision": "5e3026f8ddc8924c62138c402c5cd8e2",
     "url": "/kingpin/static/media/koranin_temp.5e3026f8.jpg"
   },
   {
-    "revision": "7239098e70d267910d100f28abdf5d37",
-    "url": "/kingpin/static/media/kozen_shrine.7239098e.png"
+    "revision": "4f65a6b707dc5afbf39c2529d5b97bb2",
+    "url": "/kingpin/static/media/kozen_shrine.4f65a6b7.png"
   },
   {
     "revision": "1360c3dd7570ccc890411288837479f8",
@@ -176,12 +176,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/nakoa_icon.a3dff77b.png"
   },
   {
-    "revision": "67149db489495f34ecd82d34c91d62f4",
-    "url": "/kingpin/static/media/port_of_royals.67149db4.png"
+    "revision": "feb62571928d11a1f591631d45af37fa",
+    "url": "/kingpin/static/media/port_of_royals.feb62571.png"
   },
   {
-    "revision": "5575cb0fe5cf59830c66620fa208f067",
-    "url": "/kingpin/static/media/purblinde.5575cb0f.png"
+    "revision": "1a6ab4f286bc147c986f1480b4bc94a9",
+    "url": "/kingpin/static/media/purblinde.1a6ab4f2.png"
   },
   {
     "revision": "1360c3dd7570ccc890411288837479f8",
@@ -208,8 +208,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/robyn_icon.1360c3dd.png"
   },
   {
-    "revision": "ebae85d19a2307d45735507ac82e2576",
-    "url": "/kingpin/static/media/sohly_tair.ebae85d1.png"
+    "revision": "0c795058e9b8f9d4fceda9c9a61d6194",
+    "url": "/kingpin/static/media/sohly_tair.0c795058.png"
   },
   {
     "revision": "8f7461276835733a8c8e7c5633877ab6",
@@ -228,12 +228,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/systems_temp.6edc35ed.jpg"
   },
   {
-    "revision": "67482fe19d04363e482917daca666763",
-    "url": "/kingpin/static/media/the_elite_court.67482fe1.png"
+    "revision": "0f87adaa6edd69b547116fd8dd47f6c5",
+    "url": "/kingpin/static/media/the_elite_court.0f87adaa.png"
   },
   {
-    "revision": "aaab607926e03be0ecb42d7493ef09e9",
-    "url": "/kingpin/static/media/the_north_star.aaab6079.png"
+    "revision": "05deb55bb779bed32c45229ecf90bdd1",
+    "url": "/kingpin/static/media/the_north_star.05deb55b.png"
   },
   {
     "revision": "63cfca5d4ca2022560a2d0394ed05d36",
@@ -248,11 +248,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/valterre_iconWhite.46a9a1ba.png"
   },
   {
-    "revision": "7df2afa469dc6ad2e4555d2759ffa9f1",
-    "url": "/kingpin/static/media/valterre_temp.7df2afa4.png"
+    "revision": "10ab65142d78d57e6ab2712f7c01c5e4",
+    "url": "/kingpin/static/media/valterre_temp.10ab6514.png"
   },
   {
-    "revision": "daae73ce5c7982440139a024886d8d62",
-    "url": "/kingpin/static/media/zeronyn.daae73ce.png"
+    "revision": "d410e3539be06e4c17e912a091120f1e",
+    "url": "/kingpin/static/media/zeronyn.d410e353.png"
   }
 ]);
