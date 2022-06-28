@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40ded1a1ba9bef299cdfcfaec0fce017",
+    "revision": "ce002f36aabde1e305abc8225d34efed",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "3957f203b9d56b8f6007",
+    "revision": "7d95ef7f8e828fed298a",
     "url": "/kingpin/static/css/2.e6d2f6ae.chunk.css"
   },
   {
-    "revision": "ca8ca58836bfe8841f9f",
-    "url": "/kingpin/static/css/main.99b9b826.chunk.css"
+    "revision": "622fa1f999193006d6cc",
+    "url": "/kingpin/static/css/main.99d52c1f.chunk.css"
   },
   {
-    "revision": "3957f203b9d56b8f6007",
-    "url": "/kingpin/static/js/2.cbc1032e.chunk.js"
+    "revision": "7d95ef7f8e828fed298a",
+    "url": "/kingpin/static/js/2.7a725ba0.chunk.js"
   },
   {
     "revision": "a90bb751b102ed9d8f9443a23ededd32",
-    "url": "/kingpin/static/js/2.cbc1032e.chunk.js.LICENSE.txt"
+    "url": "/kingpin/static/js/2.7a725ba0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca8ca58836bfe8841f9f",
-    "url": "/kingpin/static/js/main.7afb0b78.chunk.js"
+    "revision": "622fa1f999193006d6cc",
+    "url": "/kingpin/static/js/main.7743292d.chunk.js"
   },
   {
     "revision": "c12b79d825cce587fbe8",
@@ -38,10 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "29c97321f0fd99f53e5bab9709d41ba6",
     "url": "/kingpin/static/media/alcerium_iconWhite.29c97321.png"
-  },
-  {
-    "revision": "b73d63b76b7526506340bfa360784d0e",
-    "url": "/kingpin/static/media/alcerium_temp.b73d63b7.jpg"
   },
   {
     "revision": "d01417d4ce6a89ca08cb944426f01593",
@@ -84,6 +80,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/depths_of_valerim.08974a7c.png"
   },
   {
+    "revision": "1360c3dd7570ccc890411288837479f8",
+    "url": "/kingpin/static/media/drach_icon.1360c3dd.png"
+  },
+  {
     "revision": "1720826f124bfd74ccab1c1b7c4acda4",
     "url": "/kingpin/static/media/excelia_academy.1720826f.png"
   },
@@ -108,6 +108,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/karable.a581ba11.png"
   },
   {
+    "revision": "1360c3dd7570ccc890411288837479f8",
+    "url": "/kingpin/static/media/kayn_icon.1360c3dd.png"
+  },
+  {
+    "revision": "1360c3dd7570ccc890411288837479f8",
+    "url": "/kingpin/static/media/kiyone_icon.1360c3dd.png"
+  },
+  {
     "revision": "5e3026f8ddc8924c62138c402c5cd8e2",
     "url": "/kingpin/static/media/koranin_temp.5e3026f8.jpg"
   },
@@ -126,6 +134,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "758e692af1bfeb39333747a9cd06624b",
     "url": "/kingpin/static/media/laleh_icon.758e692a.png"
+  },
+  {
+    "revision": "1360c3dd7570ccc890411288837479f8",
+    "url": "/kingpin/static/media/lirah_icon.1360c3dd.png"
   },
   {
     "revision": "43dc0c4fc9144ce52d68f143502582b9",
@@ -162,6 +174,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6dce6f265112a6d5c829a6c4026c5970",
     "url": "/kingpin/static/media/lysande_iconWhite.6dce6f26.png"
+  },
+  {
+    "revision": "1360c3dd7570ccc890411288837479f8",
+    "url": "/kingpin/static/media/misa_icon.1360c3dd.png"
   },
   {
     "revision": "1360c3dd7570ccc890411288837479f8",
@@ -208,6 +224,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/robyn_icon.1360c3dd.png"
   },
   {
+    "revision": "1360c3dd7570ccc890411288837479f8",
+    "url": "/kingpin/static/media/rook_icon.1360c3dd.png"
+  },
+  {
     "revision": "0c795058e9b8f9d4fceda9c9a61d6194",
     "url": "/kingpin/static/media/sohly_tair.0c795058.png"
   },
@@ -250,6 +270,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "10ab65142d78d57e6ab2712f7c01c5e4",
     "url": "/kingpin/static/media/valterre_temp.10ab6514.png"
+  },
+  {
+    "revision": "1360c3dd7570ccc890411288837479f8",
+    "url": "/kingpin/static/media/zeretta_icon.1360c3dd.png"
   },
   {
     "revision": "d410e3539be06e4c17e912a091120f1e",
