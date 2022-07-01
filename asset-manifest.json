@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kingpin/static/css/main.99d52c1f.chunk.css",
-    "main.js": "/kingpin/static/js/main.7743292d.chunk.js",
-    "main.js.map": "/kingpin/static/js/main.7743292d.chunk.js.map",
+    "main.css": "/kingpin/static/css/main.7f9ac472.chunk.css",
+    "main.js": "/kingpin/static/js/main.fd746830.chunk.js",
+    "main.js.map": "/kingpin/static/js/main.fd746830.chunk.js.map",
     "runtime-main.js": "/kingpin/static/js/runtime-main.d1a3c5fe.js",
     "runtime-main.js.map": "/kingpin/static/js/runtime-main.d1a3c5fe.js.map",
     "static/css/2.e6d2f6ae.chunk.css": "/kingpin/static/css/2.e6d2f6ae.chunk.css",
     "static/js/2.7a725ba0.chunk.js": "/kingpin/static/js/2.7a725ba0.chunk.js",
     "static/js/2.7a725ba0.chunk.js.map": "/kingpin/static/js/2.7a725ba0.chunk.js.map",
     "index.html": "/kingpin/index.html",
-    "precache-manifest.ce764825fccdcad310e4308cd119bacd.js": "/kingpin/precache-manifest.ce764825fccdcad310e4308cd119bacd.js",
+    "precache-manifest.6fa3dc2b5d931efc2c1b382cfd989d0a.js": "/kingpin/precache-manifest.6fa3dc2b5d931efc2c1b382cfd989d0a.js",
     "service-worker.js": "/kingpin/service-worker.js",
     "static/css/2.e6d2f6ae.chunk.css.map": "/kingpin/static/css/2.e6d2f6ae.chunk.css.map",
-    "static/css/main.99d52c1f.chunk.css.map": "/kingpin/static/css/main.99d52c1f.chunk.css.map",
+    "static/css/main.7f9ac472.chunk.css.map": "/kingpin/static/css/main.7f9ac472.chunk.css.map",
     "static/js/2.7a725ba0.chunk.js.LICENSE.txt": "/kingpin/static/js/2.7a725ba0.chunk.js.LICENSE.txt",
     "static/media/alcerium_icon.png": "/kingpin/static/media/alcerium_icon.3952ef03.png",
     "static/media/alcerium_iconRed.png": "/kingpin/static/media/alcerium_iconRed.2a670826.png",
@@ -43,8 +43,8 @@
     "static/media/laleh_icon.png": "/kingpin/static/media/laleh_icon.758e692a.png",
     "static/media/lirah_icon.png": "/kingpin/static/media/lirah_icon.1360c3dd.png",
     "static/media/lydi_card.png": "/kingpin/static/media/lydi_card.43dc0c4f.png",
-    "static/media/lydi_fullbody.png": "/kingpin/static/media/lydi_fullbody.05732343.png",
-    "static/media/lydi_icon.png": "/kingpin/static/media/lydi_icon.0de0b8e7.png",
+    "static/media/lydi_fullbody.png": "/kingpin/static/media/lydi_fullbody.08c88a4a.png",
+    "static/media/lydi_icon.png": "/kingpin/static/media/lydi_icon.e60a6e8d.png",
     "static/media/lyrisius_icon.png": "/kingpin/static/media/lyrisius_icon.056e67ad.png",
     "static/media/lyrisius_iconRed.png": "/kingpin/static/media/lyrisius_iconRed.1fb386fb.png",
     "static/media/lyrisius_iconWhite.png": "/kingpin/static/media/lyrisius_iconWhite.f07e0493.png",
@@ -66,7 +66,7 @@
     "static/media/rook_icon.png": "/kingpin/static/media/rook_icon.1360c3dd.png",
     "static/media/sohly_tair.png": "/kingpin/static/media/sohly_tair.0c795058.png",
     "static/media/sumina_card.png": "/kingpin/static/media/sumina_card.8f746127.png",
-    "static/media/sumina_fullbody.png": "/kingpin/static/media/sumina_fullbody.fc7550f6.png",
+    "static/media/sumina_fullbody.png": "/kingpin/static/media/sumina_fullbody.8bc916b8.png",
     "static/media/sumina_icon.png": "/kingpin/static/media/sumina_icon.04555aea.png",
     "static/media/systems_temp.jpg": "/kingpin/static/media/systems_temp.6edc35ed.jpg",
     "static/media/the_elite_court.png": "/kingpin/static/media/the_elite_court.0f87adaa.png",
@@ -82,7 +82,7 @@
     "static/js/runtime-main.d1a3c5fe.js",
     "static/css/2.e6d2f6ae.chunk.css",
     "static/js/2.7a725ba0.chunk.js",
-    "static/css/main.99d52c1f.chunk.css",
-    "static/js/main.7743292d.chunk.js"
+    "static/css/main.7f9ac472.chunk.css",
+    "static/js/main.fd746830.chunk.js"
   ]
 }
