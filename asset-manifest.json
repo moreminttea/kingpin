@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kingpin/static/css/main.4147a84e.chunk.css",
-    "main.js": "/kingpin/static/js/main.010a4924.chunk.js",
-    "main.js.map": "/kingpin/static/js/main.010a4924.chunk.js.map",
+    "main.css": "/kingpin/static/css/main.3386b531.chunk.css",
+    "main.js": "/kingpin/static/js/main.b2213537.chunk.js",
+    "main.js.map": "/kingpin/static/js/main.b2213537.chunk.js.map",
     "runtime-main.js": "/kingpin/static/js/runtime-main.d1a3c5fe.js",
     "runtime-main.js.map": "/kingpin/static/js/runtime-main.d1a3c5fe.js.map",
     "static/css/2.e6d2f6ae.chunk.css": "/kingpin/static/css/2.e6d2f6ae.chunk.css",
     "static/js/2.0d415dee.chunk.js": "/kingpin/static/js/2.0d415dee.chunk.js",
     "static/js/2.0d415dee.chunk.js.map": "/kingpin/static/js/2.0d415dee.chunk.js.map",
     "index.html": "/kingpin/index.html",
-    "precache-manifest.544a377b5e4df27f1e86e04299c30b61.js": "/kingpin/precache-manifest.544a377b5e4df27f1e86e04299c30b61.js",
+    "precache-manifest.f7140b37a6cb7cfdb1acf482de5e0cfc.js": "/kingpin/precache-manifest.f7140b37a6cb7cfdb1acf482de5e0cfc.js",
     "service-worker.js": "/kingpin/service-worker.js",
     "static/css/2.e6d2f6ae.chunk.css.map": "/kingpin/static/css/2.e6d2f6ae.chunk.css.map",
-    "static/css/main.4147a84e.chunk.css.map": "/kingpin/static/css/main.4147a84e.chunk.css.map",
+    "static/css/main.3386b531.chunk.css.map": "/kingpin/static/css/main.3386b531.chunk.css.map",
     "static/js/2.0d415dee.chunk.js.LICENSE.txt": "/kingpin/static/js/2.0d415dee.chunk.js.LICENSE.txt",
     "static/media/alcerium_icon.png": "/kingpin/static/media/alcerium_icon.3952ef03.png",
     "static/media/alcerium_iconRed.png": "/kingpin/static/media/alcerium_iconRed.2a670826.png",
@@ -20,8 +20,8 @@
     "static/media/alcerium_temp.png": "/kingpin/static/media/alcerium_temp.d01417d4.png",
     "static/media/arkenal.png": "/kingpin/static/media/arkenal.93f235f6.png",
     "static/media/brighte_card.png": "/kingpin/static/media/brighte_card.398b5baf.png",
-    "static/media/brighte_fullbody.png": "/kingpin/static/media/brighte_fullbody.5aa3a53d.png",
-    "static/media/brighte_icon.png": "/kingpin/static/media/brighte_icon.37abc097.png",
+    "static/media/brighte_fullbody.png": "/kingpin/static/media/brighte_fullbody.9bfd61cc.png",
+    "static/media/brighte_icon.png": "/kingpin/static/media/brighte_icon.6ecde7cc.png",
     "static/media/castorix_icon.png": "/kingpin/static/media/castorix_icon.f1881e29.png",
     "static/media/castorix_iconRed.png": "/kingpin/static/media/castorix_iconRed.47e192ae.png",
     "static/media/castorix_iconWhite.png": "/kingpin/static/media/castorix_iconWhite.6dd0e4d1.png",
@@ -98,7 +98,7 @@
     "static/js/runtime-main.d1a3c5fe.js",
     "static/css/2.e6d2f6ae.chunk.css",
     "static/js/2.0d415dee.chunk.js",
-    "static/css/main.4147a84e.chunk.css",
-    "static/js/main.010a4924.chunk.js"
+    "static/css/main.3386b531.chunk.css",
+    "static/js/main.b2213537.chunk.js"
   ]
 }
