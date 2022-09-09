@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac15fe8c81543252823ed76cd022f608",
+    "revision": "1fb2ecc4021ce3f15b07e38080c2b1cb",
     "url": "/kingpin/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/css/2.e6d2f6ae.chunk.css"
   },
   {
-    "revision": "ffd71720578d8ff43644",
-    "url": "/kingpin/static/css/main.c253ce8a.chunk.css"
+    "revision": "8998a7ea40a804d2d02d",
+    "url": "/kingpin/static/css/main.09d839f5.chunk.css"
   },
   {
     "revision": "db5072690ac1c035d0b0",
@@ -20,16 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/js/2.73285e91.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ffd71720578d8ff43644",
-    "url": "/kingpin/static/js/main.49f823e5.chunk.js"
+    "revision": "8998a7ea40a804d2d02d",
+    "url": "/kingpin/static/js/main.3720f573.chunk.js"
   },
   {
     "revision": "c12b79d825cce587fbe8",
     "url": "/kingpin/static/js/runtime-main.d1a3c5fe.js"
-  },
-  {
-    "revision": "13b86fa6b02b10c43f56a3cd0f1672ca",
-    "url": "/kingpin/static/media/Excelia.13b86fa6.png"
   },
   {
     "revision": "3952ef03f714c7fce3e4ef93aa9b4be9",
@@ -104,6 +100,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/drach_icon.1360c3dd.png"
   },
   {
+    "revision": "13b86fa6b02b10c43f56a3cd0f1672ca",
+    "url": "/kingpin/static/media/excelia.13b86fa6.png"
+  },
+  {
     "revision": "6c3ee8e6cd371024beaf521a7ea5ed12",
     "url": "/kingpin/static/media/harlequins_crown.6c3ee8e6.png"
   },
@@ -160,8 +160,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/kozen_shrine.64482c6a.png"
   },
   {
-    "revision": "1360c3dd7570ccc890411288837479f8",
-    "url": "/kingpin/static/media/laleh_card.1360c3dd.png"
+    "revision": "4201927089770fe15c03cc06a2a0c44d",
+    "url": "/kingpin/static/media/laleh_card.42019270.png"
   },
   {
     "revision": "468d587cf4735dd0dbf6d9ecc95d7604",
@@ -284,8 +284,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/rin_fullbody.3410fd08.png"
   },
   {
-    "revision": "add6da1a6dd7852f1a09db6f8920045d",
-    "url": "/kingpin/static/media/rin_icon.add6da1a.png"
+    "revision": "a0e5e49e6f1e368207cae30e49ea5e86",
+    "url": "/kingpin/static/media/rin_icon.a0e5e49e.png"
   },
   {
     "revision": "1360c3dd7570ccc890411288837479f8",
