@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/kingpin/static/css/main.76c10583.chunk.css",
-    "main.js": "/kingpin/static/js/main.e94aa205.chunk.js",
-    "main.js.map": "/kingpin/static/js/main.e94aa205.chunk.js.map",
+    "main.css": "/kingpin/static/css/main.26f166d5.chunk.css",
+    "main.js": "/kingpin/static/js/main.9198bf74.chunk.js",
+    "main.js.map": "/kingpin/static/js/main.9198bf74.chunk.js.map",
     "runtime-main.js": "/kingpin/static/js/runtime-main.d1a3c5fe.js",
     "runtime-main.js.map": "/kingpin/static/js/runtime-main.d1a3c5fe.js.map",
     "static/css/2.0ef3f78d.chunk.css": "/kingpin/static/css/2.0ef3f78d.chunk.css",
-    "static/js/2.90a9e2e8.chunk.js": "/kingpin/static/js/2.90a9e2e8.chunk.js",
-    "static/js/2.90a9e2e8.chunk.js.map": "/kingpin/static/js/2.90a9e2e8.chunk.js.map",
+    "static/js/2.2ad7f1a0.chunk.js": "/kingpin/static/js/2.2ad7f1a0.chunk.js",
+    "static/js/2.2ad7f1a0.chunk.js.map": "/kingpin/static/js/2.2ad7f1a0.chunk.js.map",
     "index.html": "/kingpin/index.html",
-    "precache-manifest.582ae477267386a5fa12b6b9276cf571.js": "/kingpin/precache-manifest.582ae477267386a5fa12b6b9276cf571.js",
+    "precache-manifest.025b58727c5cdd4443563aab973f97c3.js": "/kingpin/precache-manifest.025b58727c5cdd4443563aab973f97c3.js",
     "service-worker.js": "/kingpin/service-worker.js",
     "static/css/2.0ef3f78d.chunk.css.map": "/kingpin/static/css/2.0ef3f78d.chunk.css.map",
-    "static/css/main.76c10583.chunk.css.map": "/kingpin/static/css/main.76c10583.chunk.css.map",
-    "static/js/2.90a9e2e8.chunk.js.LICENSE.txt": "/kingpin/static/js/2.90a9e2e8.chunk.js.LICENSE.txt",
+    "static/css/main.26f166d5.chunk.css.map": "/kingpin/static/css/main.26f166d5.chunk.css.map",
+    "static/js/2.2ad7f1a0.chunk.js.LICENSE.txt": "/kingpin/static/js/2.2ad7f1a0.chunk.js.LICENSE.txt",
     "static/media/alcerium.png": "/kingpin/static/media/alcerium.cf2abe75.png",
     "static/media/alcerium_icon.png": "/kingpin/static/media/alcerium_icon.3952ef03.png",
     "static/media/alcerium_iconRed.png": "/kingpin/static/media/alcerium_iconRed.2a670826.png",
@@ -90,8 +90,13 @@
     "static/media/rook_fullbody.png": "/kingpin/static/media/rook_fullbody.468d587c.png",
     "static/media/rook_icon.png": "/kingpin/static/media/rook_icon.1360c3dd.png",
     "static/media/sohly_tair.png": "/kingpin/static/media/sohly_tair.f27e1b9d.png",
+    "static/media/splash_alcerium.png": "/kingpin/static/media/splash_alcerium.a533307a.png",
+    "static/media/splash_castorix.png": "/kingpin/static/media/splash_castorix.e2261443.png",
     "static/media/splash_kingpin.png": "/kingpin/static/media/splash_kingpin.09db1ed5.png",
+    "static/media/splash_lyrisius.png": "/kingpin/static/media/splash_lyrisius.9c2ac840.png",
+    "static/media/splash_lysande.png": "/kingpin/static/media/splash_lysande.53ef8ff9.png",
     "static/media/splash_map.png": "/kingpin/static/media/splash_map.d7b519c4.png",
+    "static/media/splash_valterre.png": "/kingpin/static/media/splash_valterre.621b687e.png",
     "static/media/sumina_card.png": "/kingpin/static/media/sumina_card.8f746127.png",
     "static/media/sumina_fullbody.png": "/kingpin/static/media/sumina_fullbody.fd149bd5.png",
     "static/media/sumina_icon.png": "/kingpin/static/media/sumina_icon.04555aea.png",
@@ -120,8 +125,8 @@
   "entrypoints": [
     "static/js/runtime-main.d1a3c5fe.js",
     "static/css/2.0ef3f78d.chunk.css",
-    "static/js/2.90a9e2e8.chunk.js",
-    "static/css/main.76c10583.chunk.css",
-    "static/js/main.e94aa205.chunk.js"
+    "static/js/2.2ad7f1a0.chunk.js",
+    "static/css/main.26f166d5.chunk.css",
+    "static/js/main.9198bf74.chunk.js"
   ]
 }

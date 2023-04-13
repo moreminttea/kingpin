@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "250acbe3f9546f06a7560c33a404bb08",
+    "revision": "98d080b1e4a94805ae8259195d2f4454",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "033eff2781be5b979fdc",
+    "revision": "072d4d99f59d7864fa5b",
     "url": "/kingpin/static/css/2.0ef3f78d.chunk.css"
   },
   {
-    "revision": "b291f3be291ae89af437",
-    "url": "/kingpin/static/css/main.76c10583.chunk.css"
+    "revision": "527473a6245ea48631a9",
+    "url": "/kingpin/static/css/main.26f166d5.chunk.css"
   },
   {
-    "revision": "033eff2781be5b979fdc",
-    "url": "/kingpin/static/js/2.90a9e2e8.chunk.js"
+    "revision": "072d4d99f59d7864fa5b",
+    "url": "/kingpin/static/js/2.2ad7f1a0.chunk.js"
   },
   {
     "revision": "a90bb751b102ed9d8f9443a23ededd32",
-    "url": "/kingpin/static/js/2.90a9e2e8.chunk.js.LICENSE.txt"
+    "url": "/kingpin/static/js/2.2ad7f1a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b291f3be291ae89af437",
-    "url": "/kingpin/static/js/main.e94aa205.chunk.js"
+    "revision": "527473a6245ea48631a9",
+    "url": "/kingpin/static/js/main.9198bf74.chunk.js"
   },
   {
     "revision": "c12b79d825cce587fbe8",
@@ -332,12 +332,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/sohly_tair.f27e1b9d.png"
   },
   {
+    "revision": "a533307a79f23d69562c7768a46dcbee",
+    "url": "/kingpin/static/media/splash_alcerium.a533307a.png"
+  },
+  {
+    "revision": "e226144390417f8b50c80359bc5a52b8",
+    "url": "/kingpin/static/media/splash_castorix.e2261443.png"
+  },
+  {
     "revision": "09db1ed509fcd98368ffa672b24c4d44",
     "url": "/kingpin/static/media/splash_kingpin.09db1ed5.png"
   },
   {
+    "revision": "9c2ac840545b7774561db312ad74a759",
+    "url": "/kingpin/static/media/splash_lyrisius.9c2ac840.png"
+  },
+  {
+    "revision": "53ef8ff97a7a956a157d7f692c532422",
+    "url": "/kingpin/static/media/splash_lysande.53ef8ff9.png"
+  },
+  {
     "revision": "d7b519c457cb6aa3185181c78ea32900",
     "url": "/kingpin/static/media/splash_map.d7b519c4.png"
+  },
+  {
+    "revision": "621b687e248b8df8368c74b6c7225894",
+    "url": "/kingpin/static/media/splash_valterre.621b687e.png"
   },
   {
     "revision": "8f7461276835733a8c8e7c5633877ab6",
