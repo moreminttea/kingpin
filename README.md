@@ -1,18 +1,16 @@
 # KINGPIN 
-__Languages__: React (Javascript, HTML, CSS)
-
-__Project Development Length__: February 2022 - Ongoing
+__Languages__: React (Javascript, HTML, SCSS)
 
 [See the in-progress project here](https://moreminttea.github.io/kingpin/)
 
 ## About KINGPIN
-Kingpin is a website dedicated to fantasy world-building, character design, and story writing centered around the following plot: Six students, five sectors, four pieces of a card spell powerful enough to save Koranin from the clutches of evil, or bring it closer and closer to the brink of humanity's destruction. They say not to bite the hand that feeds you, but what happens when you discover the hand has been poisoning you all along?
+Kingpin is an in-progress collaboration website project dedicated to fantasy world-building, character design, and story writing.
 
-This is a collaboration project between my friend (Design Major @ UC Davis '24) and I (CS Major @ UC Davis '23). We split the project roles based on our specialties:
-- __ahmpersand__: design mockups of pages using Adobe Photoshop 
-- __moreminttea__: implement mockups using React.js (npm) and draw illustrations of world and characters (currently in progress)
+- __ahmpersand__ (Design Major @ UC Davis '24): design mockups of pages using Adobe Photoshop, iterate on designs using Figma
+- [__moreminttea__](https://moreminttea.github.io/) (CS Alumni @ UC Davis '23): iterate on designs using Figma, implement mockups using React.js (npm), draw illustrations of world (not started) and characters (wip), and create website assets using Adobe Illustrator
 - __both__: write world and character descriptions and stories
 
-## Disclaimer
-Currently shown images on the Home (Koranin) page will be replaced by original illustrations and purely for the purpose of laying out the groundwork for the final product. Image credits go to the original artists on ArtStation. Please contact me if you want it to be taken down. 
-
+## Disclaimers & Important Info
+- As this is a __two-person project outside of our current occupations__, and we take on every element of this project ourselves, including code, art, illustrations, and creation of assets (icons, svgs, etc), the website is updated on an irregular basis.
+- Additionally, the website is currently being redesigned. "World" and "Character" redesigns are being implemented, so __if the website looks unfinished, it very much is.__ If this website is being used as a portfolio piece, please take this into consideration.
+- As such, currently shown images found on Pinterest on the "Home" and "World" pages will be replaced by original illustrations as they are finished one by one and are only used to lay out the groundwork for the final product. __No copyright is intended, and all image credits go to the original artists on ArtStation, but please contact us if you want it to be taken down.__
