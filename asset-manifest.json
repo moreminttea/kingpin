@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kingpin/static/css/main.a8443608.chunk.css",
-    "main.js": "/kingpin/static/js/main.cbf3942a.chunk.js",
-    "main.js.map": "/kingpin/static/js/main.cbf3942a.chunk.js.map",
+    "main.js": "/kingpin/static/js/main.81a186c0.chunk.js",
+    "main.js.map": "/kingpin/static/js/main.81a186c0.chunk.js.map",
     "runtime-main.js": "/kingpin/static/js/runtime-main.72cc05ee.js",
     "runtime-main.js.map": "/kingpin/static/js/runtime-main.72cc05ee.js.map",
     "static/css/2.4707e12a.chunk.css": "/kingpin/static/css/2.4707e12a.chunk.css",
     "static/js/2.7db23d34.chunk.js": "/kingpin/static/js/2.7db23d34.chunk.js",
     "static/js/2.7db23d34.chunk.js.map": "/kingpin/static/js/2.7db23d34.chunk.js.map",
     "index.html": "/kingpin/index.html",
-    "precache-manifest.7a1c3a16c7f76edc2c7f4d85d1721b9e.js": "/kingpin/precache-manifest.7a1c3a16c7f76edc2c7f4d85d1721b9e.js",
+    "precache-manifest.3928213553798c87977e89ff19adaa61.js": "/kingpin/precache-manifest.3928213553798c87977e89ff19adaa61.js",
     "service-worker.js": "/kingpin/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/kingpin/static/css/2.4707e12a.chunk.css.map",
     "static/css/main.a8443608.chunk.css.map": "/kingpin/static/css/main.a8443608.chunk.css.map",
@@ -111,6 +111,6 @@
     "static/css/2.4707e12a.chunk.css",
     "static/js/2.7db23d34.chunk.js",
     "static/css/main.a8443608.chunk.css",
-    "static/js/main.cbf3942a.chunk.js"
+    "static/js/main.81a186c0.chunk.js"
   ]
 }
