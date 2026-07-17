@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/kingpin/static/css/main.a8443608.chunk.css",
-    "main.js": "/kingpin/static/js/main.81a186c0.chunk.js",
-    "main.js.map": "/kingpin/static/js/main.81a186c0.chunk.js.map",
+    "main.css": "/kingpin/static/css/main.7253ea48.chunk.css",
+    "main.js": "/kingpin/static/js/main.fc808abd.chunk.js",
+    "main.js.map": "/kingpin/static/js/main.fc808abd.chunk.js.map",
     "runtime-main.js": "/kingpin/static/js/runtime-main.72cc05ee.js",
     "runtime-main.js.map": "/kingpin/static/js/runtime-main.72cc05ee.js.map",
     "static/css/2.4707e12a.chunk.css": "/kingpin/static/css/2.4707e12a.chunk.css",
-    "static/js/2.7db23d34.chunk.js": "/kingpin/static/js/2.7db23d34.chunk.js",
-    "static/js/2.7db23d34.chunk.js.map": "/kingpin/static/js/2.7db23d34.chunk.js.map",
+    "static/js/2.12e3a079.chunk.js": "/kingpin/static/js/2.12e3a079.chunk.js",
+    "static/js/2.12e3a079.chunk.js.map": "/kingpin/static/js/2.12e3a079.chunk.js.map",
     "index.html": "/kingpin/index.html",
-    "precache-manifest.3928213553798c87977e89ff19adaa61.js": "/kingpin/precache-manifest.3928213553798c87977e89ff19adaa61.js",
+    "precache-manifest.823aae51b6630fb0893a1f21202b2076.js": "/kingpin/precache-manifest.823aae51b6630fb0893a1f21202b2076.js",
     "service-worker.js": "/kingpin/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/kingpin/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.a8443608.chunk.css.map": "/kingpin/static/css/main.a8443608.chunk.css.map",
-    "static/js/2.7db23d34.chunk.js.LICENSE.txt": "/kingpin/static/js/2.7db23d34.chunk.js.LICENSE.txt",
+    "static/css/main.7253ea48.chunk.css.map": "/kingpin/static/css/main.7253ea48.chunk.css.map",
+    "static/js/2.12e3a079.chunk.js.LICENSE.txt": "/kingpin/static/js/2.12e3a079.chunk.js.LICENSE.txt",
     "static/media/affinity00.png": "/kingpin/static/media/affinity00.eb7845a6.png",
     "static/media/affinity1.png": "/kingpin/static/media/affinity1.4cab0ca7.png",
     "static/media/affinity2.png": "/kingpin/static/media/affinity2.01c033ca.png",
@@ -109,8 +109,8 @@
   "entrypoints": [
     "static/js/runtime-main.72cc05ee.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.7db23d34.chunk.js",
-    "static/css/main.a8443608.chunk.css",
-    "static/js/main.81a186c0.chunk.js"
+    "static/js/2.12e3a079.chunk.js",
+    "static/css/main.7253ea48.chunk.css",
+    "static/js/main.fc808abd.chunk.js"
   ]
 }
