@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7abfd2dd7b5bed74a118bd7837053ffb",
+    "revision": "e4c23477ebbcebf436f43968ddfc8345",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "aecdfad3a41b395f12dd",
+    "revision": "442928ea1ed7edfe314e",
     "url": "/kingpin/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "120e82e1bd2ef08cb0fa",
-    "url": "/kingpin/static/css/main.ec020fef.chunk.css"
+    "revision": "8fdc97a57754176411cf",
+    "url": "/kingpin/static/css/main.fce7214c.chunk.css"
   },
   {
-    "revision": "aecdfad3a41b395f12dd",
-    "url": "/kingpin/static/js/2.f4dca2c8.chunk.js"
+    "revision": "442928ea1ed7edfe314e",
+    "url": "/kingpin/static/js/2.be21157b.chunk.js"
   },
   {
     "revision": "26ebd70de3136d492c07df1a4a51c738",
-    "url": "/kingpin/static/js/2.f4dca2c8.chunk.js.LICENSE.txt"
+    "url": "/kingpin/static/js/2.be21157b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "120e82e1bd2ef08cb0fa",
-    "url": "/kingpin/static/js/main.3203d166.chunk.js"
+    "revision": "8fdc97a57754176411cf",
+    "url": "/kingpin/static/js/main.4ddd58e4.chunk.js"
   },
   {
     "revision": "c8a0ed227789a6451bf5",
@@ -182,6 +182,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c8939c9b0e154407325dc18a6af118d5",
     "url": "/kingpin/static/media/laleh_icon_back.c8939c9b.svg"
+  },
+  {
+    "revision": "4f2ad342a43f80f81aff94bd858a7a8f",
+    "url": "/kingpin/static/media/lexicon_bg.4f2ad342.png"
   },
   {
     "revision": "6d1b7c4af1c5689f5fca9dd4e70f8a69",
