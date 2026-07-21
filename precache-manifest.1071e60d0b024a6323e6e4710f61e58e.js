@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4c23477ebbcebf436f43968ddfc8345",
+    "revision": "ff7dd11e574041ee092d5dd8b8f27022",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "442928ea1ed7edfe314e",
+    "revision": "bb9a0daa8da520d9dad1",
     "url": "/kingpin/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "8fdc97a57754176411cf",
-    "url": "/kingpin/static/css/main.fce7214c.chunk.css"
+    "revision": "f5d4409b916576fee6bd",
+    "url": "/kingpin/static/css/main.1595622b.chunk.css"
   },
   {
-    "revision": "442928ea1ed7edfe314e",
-    "url": "/kingpin/static/js/2.be21157b.chunk.js"
+    "revision": "bb9a0daa8da520d9dad1",
+    "url": "/kingpin/static/js/2.2bb7edef.chunk.js"
   },
   {
     "revision": "26ebd70de3136d492c07df1a4a51c738",
-    "url": "/kingpin/static/js/2.be21157b.chunk.js.LICENSE.txt"
+    "url": "/kingpin/static/js/2.2bb7edef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8fdc97a57754176411cf",
-    "url": "/kingpin/static/js/main.4ddd58e4.chunk.js"
+    "revision": "f5d4409b916576fee6bd",
+    "url": "/kingpin/static/js/main.c005e6c9.chunk.js"
   },
   {
     "revision": "c8a0ed227789a6451bf5",
@@ -172,8 +172,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/laleh_card.42019270.png"
   },
   {
-    "revision": "b49423b8b55d3e30d4eb8760bbc92524",
-    "url": "/kingpin/static/media/laleh_fullbody.b49423b8.png"
+    "revision": "9968dd9fa617d8333b13e9336e91f2d6",
+    "url": "/kingpin/static/media/laleh_fullbody.9968dd9f.png"
   },
   {
     "revision": "d51d272c9b48be8b7b915094e988be2b",
@@ -186,6 +186,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4f2ad342a43f80f81aff94bd858a7a8f",
     "url": "/kingpin/static/media/lexicon_bg.4f2ad342.png"
+  },
+  {
+    "revision": "3c97efb8882c4a94e491ed390b0dccbb",
+    "url": "/kingpin/static/media/lexicon_bg_overlay.3c97efb8.png"
   },
   {
     "revision": "6d1b7c4af1c5689f5fca9dd4e70f8a69",
@@ -260,12 +264,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/nakoa_card.1360c3dd.png"
   },
   {
-    "revision": "468d587cf4735dd0dbf6d9ecc95d7604",
-    "url": "/kingpin/static/media/nakoa_fullbody.468d587c.png"
+    "revision": "5be115ed300b6ab1bac8c3b4d1c8fdad",
+    "url": "/kingpin/static/media/nakoa_fullbody.5be115ed.png"
   },
   {
-    "revision": "9eff1532b264f3ae38532db7fcb3451f",
-    "url": "/kingpin/static/media/nakoa_icon.9eff1532.png"
+    "revision": "29d57dc7577dafa20d37ff6627e723c8",
+    "url": "/kingpin/static/media/nakoa_icon.29d57dc7.png"
   },
   {
     "revision": "6d5d66208746a9a2884b4fd70cf35aec",
@@ -280,8 +284,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/rin_card.1360c3dd.png"
   },
   {
-    "revision": "6134b753a4daf7d757e110e732e1414b",
-    "url": "/kingpin/static/media/rin_fullbody.6134b753.png"
+    "revision": "a42a48ddf55b923d544062000ba677b2",
+    "url": "/kingpin/static/media/rin_fullbody.a42a48dd.png"
   },
   {
     "revision": "669ee21ddcfe19af81ad97d8c91747ff",
@@ -296,8 +300,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/robyn_card.1360c3dd.png"
   },
   {
-    "revision": "93fb60ec94b94fe6446661d3a7e9fe9a",
-    "url": "/kingpin/static/media/robyn_fullbody.93fb60ec.png"
+    "revision": "17ab4ef160592d276e8933f4f21216fa",
+    "url": "/kingpin/static/media/robyn_fullbody.17ab4ef1.png"
   },
   {
     "revision": "ca413e56f3628f23f25836e2119aafa8",
