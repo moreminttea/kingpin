@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff7dd11e574041ee092d5dd8b8f27022",
+    "revision": "5842810c7d53b3ff064c030da0f6c42e",
     "url": "/kingpin/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "f5d4409b916576fee6bd",
-    "url": "/kingpin/static/css/main.1595622b.chunk.css"
+    "revision": "9292ef33245158bc9738",
+    "url": "/kingpin/static/css/main.6f785829.chunk.css"
   },
   {
     "revision": "bb9a0daa8da520d9dad1",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/js/2.2bb7edef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f5d4409b916576fee6bd",
-    "url": "/kingpin/static/js/main.c005e6c9.chunk.js"
+    "revision": "9292ef33245158bc9738",
+    "url": "/kingpin/static/js/main.22e53b87.chunk.js"
   },
   {
     "revision": "c8a0ed227789a6451bf5",
@@ -356,8 +356,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kingpin/static/media/valterre.71fdb80d.svg"
   },
   {
-    "revision": "9260cad68400edf36ecda1c45689dde1",
-    "url": "/kingpin/static/media/world_bg.9260cad6.png"
+    "revision": "d511805bd0e720ef80009318080a40bf",
+    "url": "/kingpin/static/media/world_bg.d511805b.png"
   },
   {
     "revision": "a01277a50ed1031d5206de7f34d7e254",
