@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5842810c7d53b3ff064c030da0f6c42e",
+    "revision": "e7c8d1eb4e552d302252dad2023b42c2",
     "url": "/kingpin/index.html"
   },
   {
-    "revision": "bb9a0daa8da520d9dad1",
+    "revision": "442928ea1ed7edfe314e",
     "url": "/kingpin/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "9292ef33245158bc9738",
-    "url": "/kingpin/static/css/main.6f785829.chunk.css"
+    "revision": "8c3ee586ae9a72c6a920",
+    "url": "/kingpin/static/css/main.7a735839.chunk.css"
   },
   {
-    "revision": "bb9a0daa8da520d9dad1",
-    "url": "/kingpin/static/js/2.2bb7edef.chunk.js"
+    "revision": "442928ea1ed7edfe314e",
+    "url": "/kingpin/static/js/2.be21157b.chunk.js"
   },
   {
     "revision": "26ebd70de3136d492c07df1a4a51c738",
-    "url": "/kingpin/static/js/2.2bb7edef.chunk.js.LICENSE.txt"
+    "url": "/kingpin/static/js/2.be21157b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9292ef33245158bc9738",
-    "url": "/kingpin/static/js/main.22e53b87.chunk.js"
+    "revision": "8c3ee586ae9a72c6a920",
+    "url": "/kingpin/static/js/main.eeaab07a.chunk.js"
   },
   {
     "revision": "c8a0ed227789a6451bf5",
